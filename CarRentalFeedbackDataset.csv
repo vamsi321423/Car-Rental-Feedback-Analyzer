@@ -1,0 +1,51 @@
+review_text,expected_sentiment
+The car was in bad condition and arrived 30 minutes late.,Negative
+"Loved the service, the car was spotless and arrived early.",Positive
+The AC wasn’t working and staff was rude.,Negative
+"Great overall experience, would rent again.",Positive
+Car arrived late but was clean and well maintained.,Neutral
+The seats were dirty and fuel tank was almost empty.,Negative
+"Excellent service, driver was polite and professional.",Positive
+"Vehicle broke down mid-way, terrible experience.",Negative
+"Smooth pick-up and drop, good quality car.",Positive
+The car was smaller than expected and overpriced.,Negative
+Staff was helpful but the vehicle wasn’t properly cleaned.,Neutral
+Late delivery caused me to miss my meeting.,Negative
+"Superb rental, easy process and affordable rates.",Positive
+The tyres were worn out and the brakes were squeaky.,Negative
+Very satisfied with the service overall.,Positive
+I found the staff to be indifferent and unfriendly.,Negative
+On-time delivery and the car ran perfectly.,Positive
+Had to wait too long at the pickup location.,Negative
+"Highly recommend, best rental experience so far.",Positive
+The car didn't have GPS as promised.,Negative
+Quick paperwork and hassle-free pick-up.,Positive
+Vehicle was clean but had mechanical issues.,Negative
+Everything was handled professionally.,Positive
+Unhygienic interiors and no air freshener.,Negative
+Booking process was smooth and staff was courteous.,Positive
+AC was too weak in the afternoon heat.,Negative
+Great car and seamless booking experience.,Positive
+The vehicle arrived 45 minutes late.,Negative
+Very affordable and good vehicle condition.,Positive
+Found food wrappers from previous customer inside.,Negative
+Excellent condition and fast delivery.,Positive
+They canceled my booking last minute.,Negative
+Very convenient and clean vehicle.,Positive
+Fuel policy was not clearly explained.,Negative
+Fast check-in process and car was in top shape.,Positive
+Damaged car and late pick-up.,Negative
+Quick refund and customer support was great.,Positive
+The headlight wasn’t working at night.,Negative
+Loved how clean and new the car was.,Positive
+Hidden charges at the time of return.,Negative
+Would rent from them again happily.,Positive
+The driver didn’t follow GPS instructions.,Negative
+Car was well maintained and comfy.,Positive
+Too costly for the service provided.,Negative
+Seats were very comfortable for long drive.,Positive
+Incorrect vehicle type provided.,Negative
+Great value for money and easy drop-off.,Positive
+Windshield was cracked and not replaced.,Negative
+Prompt service and excellent condition car.,Positive
+"Tires were underinflated, had to fix myself.",Negative
